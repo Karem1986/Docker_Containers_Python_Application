@@ -5,3 +5,7 @@ services:
       image: python_application:v1
       ports:
         - '8180:80'
+    web_application2:
+      image: python_application:v1
+      ports:
+        - '8181:80'
