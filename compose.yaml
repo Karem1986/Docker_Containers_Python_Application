@@ -5,6 +5,3 @@ services:
       image: python_application:v1
       ports:
         - '8180:80'
-      
- 
-
